@@ -6,5 +6,6 @@
     "AsnDenied":["GOOGLE","FACEBOOK"],
     "ModelDenied":[],
     "IfUpdate":false,
-    "updateLink":""
+    "updateLink":"",
+    "enabledVideo":false
 }
