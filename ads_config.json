@@ -4,8 +4,10 @@
     "NativeMask":3,
     "AdsRate":[0.33,0.33,0.33],
     "AsnDenied":["GOOGLE","FACEBOOK"],
-    "ModelDenied":[],
+    "ModelDenied":["NONE"],
     "IfUpdate":false,
     "updateLink":"",
+    "updateTitle":"HelloWorld",
+    "updateMessage":"Message",
     "enabledVideo":false
 }
