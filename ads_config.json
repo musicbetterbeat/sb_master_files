@@ -6,6 +6,7 @@
     "AsnDenied":["GOOGLE","FACEBOOK"],
     "ModelDenied":["NONE"],
     "IfUpdate":false,
+    "forceReport":true,
     "forceUpdate":false,
     "updateLink":"",
     "updateTitle":"DamnDamn",
