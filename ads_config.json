@@ -5,11 +5,11 @@
     "AdsRate":[0.1,0.6,0.3],
     "AsnDenied":["GOOGLE","FACEBOOK","UNITY"],
     "ModelDenied":["NONE"],
-    "IfUpdate":true,
+    "IfUpdate":false,
     "forceReport":true,
     "forceUpdate":false,
     "updateLink":"",
     "updateTitle":"DamnDamn",
     "updateMessage":"Message",
-    "enabledVideo":true
+    "enabledVideo":false
 }
