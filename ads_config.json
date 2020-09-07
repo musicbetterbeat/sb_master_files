@@ -2,7 +2,7 @@
     "BannerMask":7,
     "IntMask":7,
     "NativeMask":1,
-    "AdsRate":[0.05,0.425,0.425],
+    "AdsRate":[0.05,0.625,0.225],
     "AsnDenied":["GOOGLE","FACEBOOK","UNITY"],
     "ModelDenied":["NONE"],
     "IfUpdate":false,
