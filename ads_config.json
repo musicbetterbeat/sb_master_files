@@ -8,6 +8,7 @@
     "IfUpdate":false,
     "forceReport":true,
     "forceUpdate":false,
+    "currentVersion":3,
     "updateLink":"",
     "updateTitle":"DamnDamn",
     "updateMessage":"Message",
