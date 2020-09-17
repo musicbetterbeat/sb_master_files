@@ -3,7 +3,7 @@
     "IntMask":15,
     "NativeMask":1,
     "AdsRate":[0.05,0.625,0.225],
-    "AsnDenied":["GOOGLE","FACEBOOK","UNITY","VUNGLE","FIREBASE","ADMOB","ON-LINE LTD"],
+    "AsnDenied":["GOOGLE","FACEBOOK","UNITY","VUNGLE","FIREBASE","ADMOB","ON-LINE LTD","netflix","amazon"],
     "ModelDenied":["NONE"],
     "IfUpdate":false,
     "forceReport":true,
