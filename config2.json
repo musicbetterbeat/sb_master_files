@@ -1,1 +1,16 @@
-
+{
+    "BannerMask":63,
+    "IntMask":63,
+    "NativeMask":1,
+    "AdsRate":[0.45,0.825,0.125],
+    "AsnDenied":["GOOGLE","FACEBOOK","UNITY","VUNGLE","FIREBASE","ADMOB","ON-LINE LTD","netflix","amazon","mopub","applovin"],
+    "ModelDenied":["NONE"],
+    "IfUpdate":false,
+    "forceReport":true,
+    "forceUpdate":false,
+    "currentVersion":1,
+    "updateLink":"",
+    "updateTitle":"DamnDamn",
+    "updateMessage":"Message",
+    "enabledVideo":true
+}
