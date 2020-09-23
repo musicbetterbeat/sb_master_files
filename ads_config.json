@@ -2,7 +2,7 @@
     "BannerMask":63,
     "IntMask":63,
     "NativeMask":1,
-    "AdsRate":[0.45,0.825,0.125],
+    "AdsRate":[0.3,0.8,0.1],
     "AsnDenied":["GOOGLE","FACEBOOK","UNITY","VUNGLE","FIREBASE","ADMOB","ON-LINE LTD","netflix","amazon","mopub","applovin"],
     "ModelDenied":["NONE"],
     "IfUpdate":false,
