@@ -4,7 +4,7 @@
     "NativeMask":1,
     "AdsRate":[0.3,0.8,0.1],
     "AsnDenied":["GOOGLE","FACEBOOK","UNITY","VUNGLE","FIREBASE","ADMOB","ON-LINE LTD","netflix","amazon","mopub","applovin"],
-    "ModelDenied":["NONE"],
+    "ModelDenied":["NONEAPPLICABLE"],
     "IfUpdate":false,
     "forceReport":true,
     "forceUpdate":false,
