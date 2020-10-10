@@ -2,7 +2,7 @@
     "BannerMask":63,
     "IntMask":63,
     "NativeMask":1,
-    "AdsRate":[0.8,0.8,0.1],
+    "AdsRate":[0.5,0.5,0.5],
     "AsnDenied":["GOOGLE","FACEBOOK","UNITY","VUNGLE","FIREBASE","ADMOB","ON-LINE LTD","netflix","amazon","mopub","applovin"],
     "ModelDenied":["NONEAPPLICABLE"],
     "DatabasePriority":[0],
@@ -10,8 +10,9 @@
     "forceReport":true,
     "forceUpdate":false,
     "currentVersion":5,
-    "updateLink":"",
+    "updateLink":"https://play.google.com/store/apps/details?id=com.moviehd.mega",
     "updateTitle":"DamnDamn",
     "updateMessage":"Message",
-    "enabledVideo":true
+    "enabledVideo":false,
+    "enabledDownload":false
 }
