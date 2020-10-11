@@ -6,7 +6,7 @@
     "AsnDenied":["GOOGLE","FACEBOOK","UNITY","VUNGLE","FIREBASE","ADMOB","ON-LINE LTD","netflix","amazon","mopub","applovin"],
     "ModelDenied":["NONEAPPLICABLE"],
     "DatabasePriority":[0],
-    "IfUpdate":false
+    "IfUpdate":false,
     "forceReport":true,
     "forceUpdate":false,
     "CurrentVersion":5,
