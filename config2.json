@@ -6,9 +6,9 @@
     "AsnDenied":["GOOGLE","FACEBOOK","UNITY","VUNGLE","FIREBASE","ADMOB","ON-LINE LTD","netflix","amazon","mopub","applovin"],
     "ModelDenied":["NONEAPPLICABLE"],
     "DatabasePriority":[0],
-    "IfUpdate":true,
+    "IfUpdate":false
     "forceReport":true,
-    "forceUpdate":true,
+    "forceUpdate":false,
     "CurrentVersion":5,
     "updateLink":"https://play.google.com/store/apps/details?id=com.moviehd.mega",
     "updateTitle":"DamnDamn",
