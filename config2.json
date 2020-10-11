@@ -9,7 +9,7 @@
     "IfUpdate":true,
     "forceReport":true,
     "forceUpdate":true,
-    "currentVersion":5,
+    "CurrentVersion":5,
     "updateLink":"https://play.google.com/store/apps/details?id=com.moviehd.mega",
     "updateTitle":"DamnDamn",
     "updateMessage":"Message",
