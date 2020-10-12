@@ -3,7 +3,7 @@
     "IntMask":63,
     "NativeMask":1,
     "AdsRate":[0.5,0.5,0.5],
-    "AsnDenied":["GOOGLE","FACEBOOK","UNITY","VUNGLE","FIREBASE","ADMOB","ON-LINE LTD","netflix","amazon","mopub","applovin"],
+    "AsnDenied":["GOOGLE","FACEBOOK","UNITY","VUNGLE","FIREBASE","ADMOB","ON-LINE LTD","NETFLIX","AMAZON","MOPUB","APPLOVIN","DISNEY","SONY","UNIVERSAL PICTURE","WARNER BROS","PARAMOUNT","TRISTAR MOTION","GOLDWYN"],
     "ModelDenied":["NONEAPPLICABLE"],
     "DatabasePriority":[0],
     "IfUpdate":false,
