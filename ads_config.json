@@ -2,7 +2,7 @@
     "BannerMask":23,
     "IntMask":23,
     "NativeMask":1,
-    "AdsRate":[0.5,0.5,0.5,0,0,0,2.1],
+    "AdsRate":[0.5,20,0.5,0,0,0,2.1],
     "AsnDenied":["GOOGLE","FACEBOOK","UNITY","TWITTER","ENTERTAINMENT","VUNGLE","FIREBASE","ADMOB","ON-LINE LTD","NETFLIX","AMAZON","MOPUB","APPLOVIN","DISNEY","SONY","UNIVERSAL PICTURE","WARNER BROS","PARAMOUNT","TRISTAR MOTION","GOLDWYN"],
     "ModelDenied":["NONEAPPLICABLE"],
     "DatabasePriority":[0],
