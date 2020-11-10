@@ -8,7 +8,7 @@
     "AsnDenied":["GOOGLE","FACEBOOK","UNITY","TWITTER","ENTERTAINMENT","VUNGLE","FIREBASE","ADMOB","ON-LINE LTD","NETFLIX","AMAZON","MOPUB","APPLOVIN","DISNEY","SONY","UNIVERSAL PICTURE","WARNER BROS","PARAMOUNT","TRISTAR MOTION","GOLDWYN","TUBI"],
     "ModelDenied":["NONEAPPLICABLE"],
     "DatabasePriority":[1],
-    "IfUpdate":true,
+    "IfUpdate":false,
     "forceReport":false, 
     "forceUpdate":false,
     "CurrentVersion":30,
