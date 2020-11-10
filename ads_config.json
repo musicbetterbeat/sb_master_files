@@ -9,6 +9,7 @@
     "ModelDenied":["NONEAPPLICABLE"],
     "DatabasePriority":[1],
     "DatabaseHost":["movix.appwebtest.xyz/movie/v1/get_video_list","megaboxhd.com/megaboxhd/android_api_105_n/index2.php"],
+    "DatabaseExtra":["",""],
     "IfUpdate":false,
     "forceReport":false, 
     "forceUpdate":false,
