@@ -7,7 +7,7 @@
     "AdsPRate":[0.1,0.1,1.1,1.1,1.1,0,3.5],
     "AsnDenied":["GOOGLE","FACEBOOK","UNITY","TWITTER","ENTERTAINMENT","VUNGLE","FIREBASE","ADMOB","ON-LINE LTD","NETFLIX","AMAZON","MOPUB","APPLOVIN","DISNEY","SONY","UNIVERSAL PICTURE","WARNER BROS","PARAMOUNT","TRISTAR MOTION","GOLDWYN","TUBI"],
     "ModelDenied":["NONEAPPLICABLE"],
-    "DatabasePriority":[1],
+    "DatabasePriority":[0],
     "DatabaseHost":["https://movix.appwebtest.xyz/movie/v1/get_video_list","http://megaboxhd.com/megaboxhd/android_api_105_n/index2.php"],
     "DatabaseExtra":["",""],
     "IfUpdate":false,
