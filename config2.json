@@ -1,7 +1,7 @@
 {
     "BannerMask":55,
     "IntMask":55,
-    "NativeMask":5,
+    "NativeMask":4,
     "AdsRate":[3.5,2.5,2.5,0.5,0.5,0.0],
     "AdsPriority":[4,1,2,32,16,8],
     "AsnDenied":["GOOGLE","FACEBOOK","UNITY","TWITTER","ENTERTAINMENT","VUNGLE","FIREBASE","ADMOB","ON-LINE LTD","NETFLIX","AMAZON","MOPUB","APPLOVIN","DISNEY","SONY","UNIVERSAL PICTURE","WARNER BROS","PARAMOUNT","TRISTAR MOTION","GOLDWYN","TUBI"],
