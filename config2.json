@@ -17,5 +17,5 @@
     "updateTitle":"DamnDamn",
     "updateMessage":"Message",
     "enabledVideo":true,
-    "enabledDownload":false
+    "enabledDownload":true
 }
