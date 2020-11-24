@@ -1,6 +1,6 @@
 {
-    "BannerMask":50,
-    "IntMask":50,
+    "BannerMask":54,
+    "IntMask":54,
     "NativeMask":1,
     "AdsRate":[3.5,2.5,2.5,1.1,1.1,0,1.5],
     "AdsPriority":[4,2,32,16,8],
