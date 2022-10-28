@@ -8,13 +8,13 @@
     "DatabasePriority":[0],
     "DatabaseHost":["https://movievip.club/movix","http://megaboxhd.com/megaboxhd/android_api_105_n/index2.php"],
     "DatabaseExtra":["",""],
-    "IfUpdate":false,
+    "IfUpdate":true,
     "forceReport":false,
-    "forceUpdate":false,
+    "forceUpdate":true,
     "CurrentVersion":5,
-    "updateLink":"https://play.google.com/store/apps/details?id=com.moviehd.mega",
-    "updateTitle":"DamnDamn",
-    "updateMessage":"Message",
+    "updateLink":"https://play.google.com/store/apps/details?id=com.nfoody.vody",
+    "updateTitle":"New update available!",
+    "updateMessage":"Update to get the latest!",
     "enabledVideo":false,
     "enabledDownload":false
 }
